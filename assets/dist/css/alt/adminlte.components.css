@@ -893,7 +893,7 @@ textarea.form-control.is-warning {
 }
 
 .custom-range.custom-range-primary::-webkit-slider-thumb {
-  background-color: #007bff;
+  background-color: #ab2626;
 }
 
 .custom-range.custom-range-primary::-webkit-slider-thumb:active {
@@ -901,7 +901,7 @@ textarea.form-control.is-warning {
 }
 
 .custom-range.custom-range-primary::-moz-range-thumb {
-  background-color: #007bff;
+  background-color: #ab2626;
 }
 
 .custom-range.custom-range-primary::-moz-range-thumb:active {
@@ -909,7 +909,7 @@ textarea.form-control.is-warning {
 }
 
 .custom-range.custom-range-primary::-ms-thumb {
-  background-color: #007bff;
+  background-color: #ab2626;
 }
 
 .custom-range.custom-range-primary::-ms-thumb:active {
@@ -1453,7 +1453,7 @@ textarea.form-control.is-warning {
 }
 
 .custom-range.custom-range-blue::-webkit-slider-thumb {
-  background-color: #007bff;
+  background-color: #ab2626;
 }
 
 .custom-range.custom-range-blue::-webkit-slider-thumb:active {
@@ -1461,7 +1461,7 @@ textarea.form-control.is-warning {
 }
 
 .custom-range.custom-range-blue::-moz-range-thumb {
-  background-color: #007bff;
+  background-color: #ab2626;
 }
 
 .custom-range.custom-range-blue::-moz-range-thumb:active {
@@ -1469,7 +1469,7 @@ textarea.form-control.is-warning {
 }
 
 .custom-range.custom-range-blue::-ms-thumb {
-  background-color: #007bff;
+  background-color: #ab2626;
 }
 
 .custom-range.custom-range-blue::-ms-thumb:active {
@@ -2008,7 +2008,7 @@ textarea.form-control.is-warning {
 }
 
 .card-primary:not(.card-outline) > .card-header {
-  background-color: #007bff;
+  background-color: #ab2626;
 }
 
 .card-primary:not(.card-outline) > .card-header,
@@ -3002,7 +3002,7 @@ textarea.form-control.is-warning {
 }
 
 .card-blue:not(.card-outline) > .card-header {
-  background-color: #007bff;
+  background-color: #ab2626;
 }
 
 .card-blue:not(.card-outline) > .card-header,

@@ -2,10 +2,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <?php 
-  date_default_timezone_set("Asia/Manila");
-  
+  date_default_timezone_set("Europe/Istanbul");
   ob_start();
-  $title = isset($_GET['page']) ? ucwords(str_replace("_", ' ', $_GET['page'])) : "Home";
+  $title = isset($_GET['page']) ? ucwords(str_replace("_", ' ', $_GET['page'])) : "Anasayfa";
   ?>
   <title><?php echo $title ?> | <?php echo $_SESSION['system']['name'] ?></title>
   <?php ob_end_flush() ?>
